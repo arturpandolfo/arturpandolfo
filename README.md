@@ -1,16 +1,26 @@
-## Hi there 👋
+## About Me
 
-<!--
-**arturpandolfo/arturpandolfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Artur and I'm a Computer Science student from Brazil, currently in my 7th semester.
 
-Here are some ideas to get you started:
+I am passionate about backend development and focused on building a strong foundation in software engineering principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Main focus: Backend Development
+-  Strong foundation in Java & Object-Oriented Programming
+-  Knowledge of Data Structures and Algorithms
+-  Basic experience with SQL and databases
+-  Currently seeking internship opportunities
+
+---
+
+## Tech Stack
+
+- Java
+- SQL
+- Git & GitHub
+- HTML & CSS
+- Basic knowledge of Python and C
+
+## Contact
+
+- 📧 Email: arturpmeneghete@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/artur-meneghete/
